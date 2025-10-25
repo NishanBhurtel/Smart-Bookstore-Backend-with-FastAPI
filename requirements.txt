@@ -4,3 +4,4 @@ sqlmodel==0.0.8
 pydantic==2.5.1
 pytest==7.4.0
 httpx==0.24.0
+alembic==1.13.1
